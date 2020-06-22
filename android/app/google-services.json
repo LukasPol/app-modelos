@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "332692549582",
+    "firebase_url": "https://appmodelos-8708f.firebaseio.com",
+    "project_id": "appmodelos-8708f",
+    "storage_bucket": "appmodelos-8708f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332692549582:android:afa8ebcf3cbf1d652d859f",
+        "android_client_info": {
+          "package_name": "br.com.pol.appmodelos.app_modelos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332692549582-kvemjjtd9l02gk271tolqt1449d7l4tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvROEyxbC254WJFniw29qqKeIbkQCJmvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332692549582-kvemjjtd9l02gk271tolqt1449d7l4tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
